@@ -1,0 +1,34 @@
+# ✨ AI Recruiter Pro 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+A modern, frontend web application that parses resumes, extracts technical skills, and calculates Job Description (JD) match scores. 
+
+**🚀 Live Demo:** [Insert your Netlify Link Here]
+
+## 📖 About The Project
+This project is a fully functional Smart HR Dashboard built completely from scratch using **React, JavaScript, HTML, and CSS**. It uses custom JavaScript logic and Regular Expressions (Regex) to analyze text and calculate candidate matching scores right in the browser, without needing a backend server!
+
+## ✨ Key Features
+* 🧩 **Smart Entity Extractor:** Uses custom JavaScript search algorithms to instantly parse raw text and extract technical skills, programming languages, and frameworks.
+* 📊 **Advanced Resume Matcher:** Compares a candidate's profile against a target Job Description.
+* 🔍 **Skill Gap Analysis:** Mathematically calculates missing skills and provides visual feedback on exactly what the candidate needs to learn.
+* 🎯 **Role Recommender:** Analyzes extracted profile data and calculates percentage fits for various industry roles.
+* 🎨 **Modern UI/UX:** Built with React conditional rendering (`useState`) and custom CSS styling for a seamless, single-page application experience.
+
+## 🛠️ Tech Stack
+* **Framework:** React.js (via Vite)
+* **Language:** JavaScript (ES6+)
+* **Structure & Design:** HTML5 & Custom CSS3
+* **Deployment:** Netlify
+
+## 💻 How to Run Locally
+
+If you want to run this project on your own machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YourUsername/ai-recruiter-react.git](https://github.com/YourUsername/ai-recruiter-react.git)
